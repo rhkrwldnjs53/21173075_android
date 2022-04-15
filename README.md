@@ -16,3 +16,8 @@
 <img width="" height="" src="./pic/java소스파일.png"></img>
 <img width="" height="" src="./pic/실행결과1.png"></img>
 <img width="" height="" src="./pic/실행결과2.png"></img>
+
+## 6주차 과제
+
+<img width="" height="" src="./pic/Width.png"></img>
+<img width="" height="" src="./pic/Height.png"></img>
