@@ -19,5 +19,5 @@
 
 ## 6주차 과제
 
-<img width="" height="" src="./pic/Width.png"></img>
-<img width="" height="" src="./pic/height.png"></img>
+<img width="" height="" src="./pic/img1.png"></img>
+<img width="" height="" src="./pic/img2.png"></img>
