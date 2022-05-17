@@ -24,6 +24,6 @@
 
 ## 10주차 과제
 
-<img width="" height="" src="./pic/one.png"></img>
-<img width="" height="" src="./pic/two.png"></img>
-<img width="" height="" src="./pic/three.png"></img>
+<img width="" height="" src="./pic/one.jpg"></img>
+<img width="" height="" src="./pic/two.jpg"></img>
+<img width="" height="" src="./pic/three.jpg"></img>
