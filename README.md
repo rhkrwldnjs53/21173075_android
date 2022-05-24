@@ -30,4 +30,4 @@
 
 ## 11차 과제
 
-<img width="" height="" src="./pic/png1.png"></img>
+<img width="" height="" src="./pic/png1.PNG"></img>
